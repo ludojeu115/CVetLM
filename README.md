@@ -8,7 +8,7 @@ TD de Préprofessionnalisation en informatique par:\
 -Tepedelen Léo\
 
 
-Poster et prises de notes réalisées lors du second TD de Préprofessionnalisation par:\
+Poster réalisée lors du second TD de Préprofessionnalisation par:\
 -Hakenholz Guillaume\
 -Joseph-Angelique Juan\
 -Lonlas Ludovic\
